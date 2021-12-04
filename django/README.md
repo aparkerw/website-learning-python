@@ -14,4 +14,5 @@ Make Django site `django-admin startproject mysite`
 
 ## Learning materials
 
-[Django + React](https://www.youtube.com/watch?v=JD-age0BPVo)
+[Django + React #1](https://www.youtube.com/watch?v=JD-age0BPVo)
+[Django + React #2](https://www.youtube.com/watch?v=uhSmgR1hEwg)
