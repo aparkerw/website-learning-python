@@ -19,6 +19,7 @@ from django.urls.conf import include
 from . import views
 
 urlpatterns = [
-    path('', views.echo, name='index'),
+    path('echo/', views.echo, name='index'),
     path('api/', include('api.urls')),
+    path('', include('frontend.urls'))
 ]

@@ -16,3 +16,4 @@ Make Django site `django-admin startproject mysite`
 
 [Django + React #1](https://www.youtube.com/watch?v=JD-age0BPVo)
 [Django + React #2](https://www.youtube.com/watch?v=uhSmgR1hEwg)
+[Django + React #3](https://www.youtube.com/watch?v=6c2NqDyxppU)
